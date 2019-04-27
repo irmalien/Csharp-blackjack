@@ -1,2 +1,2 @@
-# Csharp-blackjack
-BlackJack C# Console game
+# C# BlackJack
+Console based BlackJack game
